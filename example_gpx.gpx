@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  	<name><![CDATA[Mountain Biking 7/17/15 8:43 pm]]></name>
+  	<time>2015-07-17T18:43:09Z</time>
+	<trkseg>
+		<trkpt lat="59.844706000" lon="17.650264000"><ele>27.3</ele><time>2015-07-17T18:43:09Z</time></trkpt>
+		<trkpt lat="59.844636000" lon="17.650154000"><ele>28.0</ele><time>2015-07-17T18:43:15Z</time></trkpt>
+		<trkpt lat="59.844537000" lon="17.650006000"><ele>28.5</ele><time>2015-07-17T18:43:19Z</time></trkpt>
+		<trkpt lat="59.844486000" lon="17.649818000"><ele>29.1</ele><time>2015-07-17T18:43:22Z</time></trkpt>
+		<trkpt lat="59.844455000" lon="17.649620000"><ele>29.6</ele><time>2015-07-17T18:43:25Z</time></trkpt>
+	</trkseg>
+	<trkseg>
+		<trkpt lat="59.844706000" lon="17.650264000"><ele>27.3</ele><time>2015-07-17T18:43:09Z</time></trkpt>
+		<trkpt lat="59.844636000" lon="17.650154000"><ele>28.0</ele><time>2015-07-17T18:43:15Z</time></trkpt>
+		<trkpt lat="59.844537000" lon="17.650006000"><ele>28.5</ele><time>2015-07-17T18:43:19Z</time></trkpt>
+		<trkpt lat="59.844486000" lon="17.649818000"><ele>29.1</ele><time>2015-07-17T18:43:22Z</time></trkpt>
+		<trkpt lat="59.844455000" lon="17.649620000"><ele>29.6</ele><time>2015-07-17T18:43:25Z</time></trkpt>
+	</trkseg>
+</trk>
+</gpx>
